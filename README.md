@@ -21,4 +21,7 @@
   <img src="https://user-images.githubusercontent.com/35266817/129929403-aea9802f-671f-4dd1-b96a-f3262bc5988c.png" width="700">  
 
 ### Sequence-based Deep Learning Antibody Design for in-silico Antibody Affinity Maturation [[paper](https://arxiv.org/pdf/2103.03724.pdf)]  
-- stuff
+- Graph-based designs for depicting antibody-antigen interactions in terms of antibody affinity prediction  
+  <img src="https://user-images.githubusercontent.com/35266817/129935242-3de88a0d-19f0-4fc8-af10-1fb9103ec466.png" width="300" align="center">   
+
+### stuff
